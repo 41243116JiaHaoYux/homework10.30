@@ -13,4 +13,5 @@ void change_size(int *&arr, int size, int new_size) {
 }
 
 output:
+
 ![image](https://github.com/user-attachments/assets/cd1b0c5e-ecdb-4ca0-a6bd-d25dab9914db)
