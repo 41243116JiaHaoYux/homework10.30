@@ -1,5 +1,6 @@
 
 void change_size(int *&arr, int size, int new_size) {
+
     int *new_arr = new int[new_size]; //adding a new arr(直接給予縮需的新陣列大小) 
     int *recycler = arr;			//adding a recycler
     copy(arr, arr + size, new_arr);	//copy arr on new arr
